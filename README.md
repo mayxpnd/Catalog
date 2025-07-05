@@ -1,6 +1,7 @@
 # Catalog
 Catalog Handuro
-[ดาวน์โหลดคู่มือ PDF]
-(https://raw.githubusercontent.com/mayxpnd/Catalog/main/SA-IN.pdf)
+
+[เปิด/ดาวน์โหลด PDF](https://raw.githubusercontent.com/mayxpnd/Catalog/main/SA-IN.pdf)
+
 
 
