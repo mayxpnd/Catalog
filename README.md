@@ -1,7 +1,8 @@
 # Catalog
 Catalog Handuro
 
-[เปิด/ดาวน์โหลด PDF](https://raw.githubusercontent.com/mayxpnd/Catalog/main/SA-IN.pdf)
+[เปิด/ดาวน์โหลด PDF](https://mayxpnd.github.io/Catalog/SA-IN.pdf)
+
 
 
 
