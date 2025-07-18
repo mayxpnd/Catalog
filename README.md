@@ -11,3 +11,6 @@ TPP Controller
 
 Power Pump Inverter
 (https://mayxpnd.github.io/Catalog/PowerPump.pdf)
+
+Solar Cell
+(https://mayxpnd.github.io/Catalog/INE-halfcell-580-600W.pdf)
