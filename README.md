@@ -16,4 +16,4 @@ Solar Cell
 (https://mayxpnd.github.io/Catalog/INE-halfcell-580-600W.pdf)
 
 Inverter
-(https://mayxpnd.github.io/Catalog/4.2k.pdf)
+(https://mayxpnd.github.io/Catalog/Inverter-4.2k.pdf)
