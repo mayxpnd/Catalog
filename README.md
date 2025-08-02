@@ -3,6 +3,7 @@ Catalog Handuro
 
 Pump
 4SC
+(https://mayxpnd.github.io/Catalog/4SC15-247-530-5500-AD.pdf)
 
 SA
 (https://mayxpnd.github.io/Catalog/SA-IN.pdf)
