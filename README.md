@@ -23,3 +23,4 @@ Solar Cell
 
 Inverter
 (https://mayxpnd.github.io/Catalog/Inverter-4.2k.pdf)
+(https://mayxpnd.github.io/Catalog/DatasheetEasyBox&combiner.pdf)
