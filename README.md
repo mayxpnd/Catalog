@@ -7,6 +7,7 @@ Pump
 
 4/6SSC
 (https://mayxpnd.github.io/Catalog/46SSC93-61-530-7500-AD.pdf)
+(https://mayxpnd.github.io/Catalog/46SSC62-50-300-4000-AD.pdf)
 
 SA
 (https://mayxpnd.github.io/Catalog/SA-IN.pdf)
